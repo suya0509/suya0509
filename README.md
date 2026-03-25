@@ -1,5 +1,3 @@
-## 🙌 안녕하세요. 김현수입니다!   
-
 <h2>🛠 Tech Stack</h2>
 
 <h3>Front-End & Mobile</h3>
