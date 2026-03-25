@@ -38,9 +38,3 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 </p>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/suya0509">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=suya0509&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  </a>
-</p>
