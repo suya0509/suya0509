@@ -1,3 +1,10 @@
+<h1 align="center">Hi there 👋 I'm Hyeonsu</h1>
+<p align="center">
+  꾸준히 배우고 만들며 성장하는 개발자입니다.
+</p>
+
+<br>
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <h3 align="center">Front-End & Mobile</h3>
@@ -38,3 +45,11 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 </p>
 
+<br>
+
+<h2 align="center">💡 My Git Stats</h2>
+<p align="center">
+  <a href="https://github.com/suya0509">
+    <img src="https://github-readme-stats.vercel.app/api?username=suya0509&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  </a>
+</p>
