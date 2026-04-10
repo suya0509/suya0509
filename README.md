@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Hyeonsu</h1>
+<h1 align="center">Hi there 👋 I'm HyunSu</h1>
 <p align="center">
   꾸준히 배우고 만들며 성장하는 개발자입니다.
 </p>
